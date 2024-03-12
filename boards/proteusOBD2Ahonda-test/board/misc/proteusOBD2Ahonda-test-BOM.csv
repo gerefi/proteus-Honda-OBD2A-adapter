@@ -20,7 +20,6 @@ Comment,Designator,Footprint,LCSC Part #
 "MountingHole","H8","MountingHole_4.3mm_M4",""
 "TE_179686-6_104pin_Connector","J1","TE_179686-6_104pin_Connector",""
 "XH-10AW","J2","JST_XH_S10B-XH-A_1x10_P2.50mm_Horizontal","C14652"
-"XH-10A","J3","JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical",""
 "Conn_01x06","J4","PinHeader_1x06_P2.54mm_Vertical",""
 "Conn_01x01","J5","TestPoint_Pad_D2.0mm",""
 "Pad","P1","PAD-TH",""
