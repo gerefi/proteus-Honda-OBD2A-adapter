@@ -25,7 +25,6 @@
 "MountingHole","H8","MountingHole:MountingHole_4.3mm_M4",""
 "TE_179686-6_104pin_Connector","J1","kicad6-libraries:TE_179686-6_104pin_Connector",""
 "XH-10AW","J2","Connector_JST:JST_XH_S10B-XH-A_1x10_P2.50mm_Horizontal","C14652"
-"XH-10A","J3","Connector_JST:JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical",""
 "Conn_01x06","J4","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical",""
 "Conn_01x01","J5","TestPoint:TestPoint_Pad_D2.0mm",""
 "Module-vr-discrete-0.1","M1","hellen-one-vr-discrete-0.1:vr-discrete",""
